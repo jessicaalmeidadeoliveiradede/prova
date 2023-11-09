@@ -1,0 +1,50 @@
+Os arquivos são locais nomeados no disco para armazenar informações. Eles são usados para armazenar dados permanentemente em uma memória não volátil (por exemplo, disco rígido). Em Python, uma operação em arquivo ocorre na seguinte ordem:
+- Abrir um arquivo
+- Ler ou escrever
+- Fechar o arquivo
+Marque a opção CORRETA que, em ordem, representa comandos Python para efetuar essas operações em um arquivo de
+nome "arquivo.csv".
+open("arquivo.csv"); seek(); close()
+open("arquivo.csv"); read(); close()
+open("arquivo.csv"); read(); endFile("arquivo.csv")
+open("arquivo.csv"); read(); endFile()
+open("arquivo.csv"); seek(); close("arquivo.csv")
+Correto
+2/2 Pontos
+2
+Framework é uma coleção de módulos de software, ferramentas e artefatos que concede ajuda fundamental teórica e técnica na construção de software aplicativo é conhecida como estrutura. No mundo da programação, esses frameworks podem ser reutilizados no desenvolvimento de aplicativos distintos. Qual destes frameworks se aplicam ao desenvolvimento Python com interfaces gráficas ?
+Bootstrap
+SenderKit
+MobileDev
+Window
+Django
+Correto
+2/2 Pontos
+3
+Em Python, quando mais de um operador aparece em uma expressão, a ordem de avaliação depende das regras de precedência de cada linguagem. Assim, ao programar em Python, além de observar essas regras, é preciso considerar, ainda, a forma como a linguagem representa seus operadores, conforme demonstrado nos comandos a seguir.
+Assinale a opção que corresponde à saída que o compilador Python apresentará para os comandos em questão.
+Assinale a opção que corresponde à saída que o compilador Python apresentará para os comandos em questão.
+15.75
+7
+15
+3
+1
+Incorreto
+0/2 Pontos
+4
+Qual das opções abaixo possui código capaz de replicar a imagem da janela destacada?
+Option 1
+Option 2
+Option 3
+Option 4
+Option 5
+Incorreto
+0/2 Pontos
+5
+No contexto de desenvolvimento de software, o RAD (Rapid Application Development) é uma metodologia que enfatiza a entrega rápida e o feedback contínuo. Dada sua flexibilidade, RAD encontrou aplicação em várias áreas. Qual das seguintes opções NÃO representa uma área comum de aplicação do RAD?
+Sistemas de negócios que necessitam ser lançados rapidamente no mercado.
+Prototipagem para coletar feedback de usuários.
+Design de hardware de computadores.
+Aplicações web com requisitos mutáveis.
+Desenvolvimento de software personalizado para organizações
+Option 2
